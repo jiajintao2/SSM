@@ -1,3 +1,14 @@
+target
+.classpath
+.project
+.settings
+.idea
+*.iml
+.metadata
+.studio
+.gitignore
+.recommenders
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
